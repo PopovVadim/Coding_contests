@@ -1,0 +1,16 @@
+# Coding_tasks
+
+Professor GukiZ's Robot
+time limit per test0.5 seconds
+memory limit per test256 megabytes
+inputstandard input
+outputstandard output
+Professor GukiZ makes a new robot. The robot are in the point with coordinates (x1, y1) and should go to the point (x2, y2). In a single step the robot can change any of its coordinates (maybe both of them) by one (decrease or increase). So the robot can move in one of the 8 directions. Find the minimal number of steps the robot should make to get the finish position.
+
+Input
+The first line contains two integers x1, y1 ( - 109 ≤ x1, y1 ≤ 109) — the start position of the robot.
+
+The second line contains two integers x2, y2 ( - 109 ≤ x2, y2 ≤ 109) — the finish position of the robot.
+
+Output
+Print the only integer d — the minimal number of steps to get the finish position.
