@@ -1,5 +1,7 @@
 # Coding_tasks
 
-My implemented coding tasks from such resources as Codeforces.com
+My coding tasks from such resources as Codeforces.com
+
+Implementation is written mostly on Java
 
 Each task has it's own description
