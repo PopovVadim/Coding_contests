@@ -35,3 +35,5 @@ output:
 In the first example robot should increase both of its coordinates by one four times, so it will be in position (4, 4). After that robot should simply increase its y coordinate and get the finish position.
 
 In the second example robot should simultaneously increase x coordinate and decrease y coordinate by one three times.
+
+   [Source on Codeforces.com]: <http://codeforces.com/contest/620/problem/A>
