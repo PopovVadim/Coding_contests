@@ -1,4 +1,4 @@
-# Coding_tasks
+# Coding_contests
 
 My coding tasks from such resources as Codeforces.com
 
